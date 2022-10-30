@@ -14,5 +14,6 @@ In this project, I will be using the following elements:
 
 Other skills that I will demonstrate are going to be:
     boilerplate usage
+    directory/file creation through terminal
     directory/file navigation
     terminal and Git usage
